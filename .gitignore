@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/merged_solar_data.csv
+.DS_Store
+.vscode/
