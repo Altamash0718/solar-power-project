@@ -4,7 +4,7 @@ A machine learning project that predicts and forecasts the power output of two s
 detects underperforming inverters, estimates financial and environmental impact, and presents
 everything in an interactive dark-themed dashboard.
 
-**Live demo:** [YOUR-APP-LINK-AFTER-DEPLOYMENT](https://YOUR-APP-LINK)
+**Live demo:** [https://solar-power-project-generation.streamlit.app/](https://solar-power-project-generation.streamlit.app/)
 &nbsp;|&nbsp; Built with Python, scikit-learn, XGBoost, Streamlit and Plotly
 
 ![Dashboard overview](assets/screenshots/overview.png)
